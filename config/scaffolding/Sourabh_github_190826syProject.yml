@@ -7,3 +7,7 @@ packages:
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
+- name: WxStateManager
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: public
+  wpmVersion: 1.0.20
