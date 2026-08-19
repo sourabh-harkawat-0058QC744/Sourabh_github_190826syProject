@@ -12,7 +12,7 @@ packages:
   wpmRegistry: public
   wpmVersion: 1.0.20
 - name: LowerFSPackage
-  gitServerName: srcCtrl_github_Sourabh
+  gitServerName: sourabhgithub2
   gitUrl: https://github.com/sourabh-harkawat-0058QC744
   gitUsername: sourabh-harkawat-0058QC744
   gitBranch: main
